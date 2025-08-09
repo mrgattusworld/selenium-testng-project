@@ -32,5 +32,6 @@ public class Bank_Login_LogOut extends PageObjects{
     public void TC004_loginToApplication_Click_On_AutoMenu() {
         BankLoginPage.clickAutoMenu();
         BankLoginPage.closeAutoMenu();
+        //Test
     }
 }
